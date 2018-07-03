@@ -1,0 +1,2 @@
+include ':app', ':cellservice'
+project(':cellservice').projectDir = new File('libraries/cellservice/cellservice')

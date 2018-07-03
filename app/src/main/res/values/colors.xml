@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDarker">#00796b</color>
+    <color name="colorPrimaryDark">#004d40</color>
+    <color name="colorAccent">#c6ff00</color>
+    -->
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDarker">#373737</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="colorPrimaryLight">#fff3f3f3</color>
+
+    <color name="colorCall">#64b5f6</color>
+    <color name="colorTextMessage">#e57373</color>
+    <color name="colorDataRecord">#ffd54f</color>
+    <color name="colorLocationUpdate">#81c784</color>
+    <color name="colorHandover">#42a5f5</color>
+
+</resources>

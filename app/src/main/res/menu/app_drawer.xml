@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:title="@string/menu_home"/>
+        <item
+            android:id="@+id/nav_mapview"
+            android:icon="@drawable/ic_locationpin_white_24dp"
+            android:title="@string/menu_mapview"/>
+        <item
+            android:id="@+id/nav_hotspots"
+            android:icon="@drawable/ic_map_white_24dp"
+            android:title="@string/menu_hotspots"
+            />
+        <item
+            android:id="@+id/nav_statistics"
+            android:icon="@drawable/ic_statistics_white_24dp"
+            android:title="@string/menu_statistics"/>
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@drawable/ic_format_list_bulleted_white_24dp"
+            android:title="@string/menu_list"
+            />
+
+    </group>
+
+    <item android:title="Misc">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/menu_settings"/>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="@string/menu_about"/>
+        </menu>
+    </item>
+
+</menu>

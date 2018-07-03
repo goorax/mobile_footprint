@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="all">
+
+        <item
+            android:id="@+id/action_toggle_calls"
+            android:icon="@drawable/ic_call_white_24dp"
+            android:orderInCategory="100"
+            android:title="@string/calls"
+            app:showAsAction="always"/>
+
+        <!--
+        <item
+            android:id="@+id/action_toggle_handovers"
+            android:icon="@drawable/ic_handover_white_24dp"
+            android:orderInCategory="300"
+            android:title="Handovers"
+            app:showAsAction="always"/>
+        -->
+
+        <item
+            android:id="@+id/action_toggle_textmessages"
+            android:icon="@drawable/ic_message_white_24dp"
+            android:orderInCategory="200"
+            android:title="@string/text_messages"
+            app:showAsAction="always"/>
+
+        <item
+            android:id="@+id/action_toggle_data"
+            android:icon="@drawable/ic_handover_white_24dp"
+            android:orderInCategory="500"
+            android:title="@string/data_usage"
+            app:showAsAction="always"/>
+
+        <item
+            android:id="@+id/action_toggle_locationupdates"
+            android:icon="@drawable/ic_locationupdate_white_24dp"
+            android:orderInCategory="400"
+            android:title="@string/location_updates"
+            app:showAsAction="always"/>
+    </group>
+</menu>
