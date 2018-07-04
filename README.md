@@ -1,7 +1,8 @@
 
 # Visualizing personal call records with Mobile Footprint
-<img src="https://raw.githubusercontent.com/goorax/mobile_footprint/master/figures/screenshot1.png" width="300"/>
-<img src="https://raw.githubusercontent.com/goorax/mobile_footprint/master/figures/screenshot2.png" width="300"/>
+<img src="https://raw.githubusercontent.com/goorax/mobile_footprint/master/figures/screenshot1.png" width="300"/><img src="https://raw.githubusercontent.com/goorax/mobile_footprint/master/figures/screenshot2.png" width="300"/>
+
+Please find the presentation in the folder ``slides``.
 
 Android application to visualize own location data and connection data history of call detail records.
 - Easy to use
